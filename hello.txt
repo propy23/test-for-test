@@ -1,4 +1,4 @@
-"Hello Git!" 
+"Hello Git!" What is new
 "This is the second line." 
 Edited
 this is for test. 
